@@ -1,0 +1,9 @@
+C:\TIRTAGT\Tempat Dokumen\GitHub\TirtaShutdownTimer\bin\Debug\TirtaShutdownTimer.exe
+C:\TIRTAGT\Tempat Dokumen\GitHub\TirtaShutdownTimer\bin\Debug\TirtaShutdownTimer.pdb
+C:\TIRTAGT\Tempat Dokumen\GitHub\TirtaShutdownTimer\obj\Debug\TirtaShutdownTimer.csprojAssemblyReference.cache
+C:\TIRTAGT\Tempat Dokumen\GitHub\TirtaShutdownTimer\obj\Debug\TirtaShutdownTimer.MainWindow.resources
+C:\TIRTAGT\Tempat Dokumen\GitHub\TirtaShutdownTimer\obj\Debug\TirtaShutdownTimer.Properties.Resources.resources
+C:\TIRTAGT\Tempat Dokumen\GitHub\TirtaShutdownTimer\obj\Debug\TirtaShutdownTimer.csproj.GenerateResource.cache
+C:\TIRTAGT\Tempat Dokumen\GitHub\TirtaShutdownTimer\obj\Debug\TirtaShutdownTimer.csproj.CoreCompileInputs.cache
+C:\TIRTAGT\Tempat Dokumen\GitHub\TirtaShutdownTimer\obj\Debug\TirtaShutdownTimer.exe
+C:\TIRTAGT\Tempat Dokumen\GitHub\TirtaShutdownTimer\obj\Debug\TirtaShutdownTimer.pdb
